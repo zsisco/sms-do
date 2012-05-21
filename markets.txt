@@ -1,0 +1,11 @@
+BOYD
+M-Th: 8am-11pm
+Fri: 8am-7pm
+Sat: Noon-7pm
+Sun: Noon-11pm
+
+JEFF
+M-Th: 8am-10pm
+Fri: 8am-8pm 
+Sat: Noon-7pm
+Sun: Noon-10pm
