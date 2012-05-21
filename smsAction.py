@@ -1,7 +1,7 @@
 import wordnik
 
 def search_dictionary(query):
-  f = open('wordkin_api.txt')
+  f = open('wordnik_api.txt')
   api_key = f.readline()[:-1]
   username = f.readline()[:-1]
   passw = f.readline()[:-1]
